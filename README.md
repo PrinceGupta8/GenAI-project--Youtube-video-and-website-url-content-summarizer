@@ -29,13 +29,13 @@ This project is a **Streamlit-based AI tool** that extracts and summarizes text 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/PrinceGupta8/summarizer.git
-   cd summarizer
+   git clone https://github.com/PrinceGupta8/GenAI-project--Youtube-video-and-website-url-content-summarizer.git
+   cd GenAI-project--Youtube-video-and-website-url-content-summarizer
    ```
 2. **Create a virtual environment**
    ```bash
    python -m venv venv
-   venv\Scripts\activate     # On Windows
+   venv\Scripts\activate   
    ```
 3. **Install dependencies**
    ```bash
@@ -78,5 +78,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-🚀 **Summarize YouTube videos and web pages effortlessly with AI-powered summaries!**
+**Summarize YouTube videos and web pages effortlessly with AI-powered summaries!**
 
